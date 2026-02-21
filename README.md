@@ -25,7 +25,7 @@
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
 | [WriteHub](https://github.com/Dong-gyun-lim/writehub) | 구독 기반 기술 블로그 플랫폼 | Spring Boot, JPA, Querydsl, MySQL |
-| [DivorceInsight](https://github.com/Dong-gyun-lim) | AI 기반 법률 판례 분석 서비스 | Spring Boot, MyBatis, MariaDB, Flask |
+| [DivorceInsight] | AI 기반 법률 판례 분석 서비스 | Spring Boot, MyBatis, MariaDB, Flask |
 
 ## 📫 Contact
 [![Email](https://img.shields.io/badge/Email-sfeagle130@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white)](mailto:sfeagle130@naver.com)
